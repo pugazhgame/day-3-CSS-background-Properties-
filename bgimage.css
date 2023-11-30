@@ -1,0 +1,40 @@
+.head{
+    background-color: violet;
+    width:100%;
+    height: 200px;
+    font-size: larger;
+    float: left;
+    background-image: url("https://www.freepik.com/free-vector/happy-diwali-traditional-white-decorative-background_19546878.htm#query=diwali%20background&position=1&from_view=keyword&track=ais&uuid=f2c54561-acb4-468e-aa89-69fcb1064ada");
+}
+
+.menu{
+    background-color:aqua;
+    width:25%;
+    height: 500px;
+    font-size: larger;
+    float: left;
+}
+
+.content{
+    background-color:darkgoldenrod;
+    width:50%;
+    height: 500px;
+    font-size: larger;
+    float: left;
+}
+
+.aside{
+    background-color:darkred;
+    width:25%;
+    height: 500px;
+    font-size: larger;
+    float: left;
+}
+
+.footer{
+    background-color:tomato;
+    width:100%;
+    height: 200px;
+    font-size: larger;
+    float: left;
+}

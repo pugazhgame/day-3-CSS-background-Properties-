@@ -1,0 +1,45 @@
+.info1{
+    width: 10%;
+    float: left;
+    background-color:red;
+}
+.info2{
+    width: 90%;
+    float: right;
+    background-color: green;
+}
+.info{
+    width:100%;
+    background-color: yellow;
+}
+
+.sec1{
+    width: 30%;
+    background-color: blue;
+    float: left;
+
+}
+.sec2{
+    width: 40%;
+    background-color: grey;
+    float: left;
+}
+.sec3{
+    width: 30%;
+    background-color: rosybrown;
+    float: right;
+}
+.page{
+    width: 80%;
+    background-color: aqua;
+    float: left;
+}
+.side{
+    width: 20%;
+    background-color: seagreen;
+    float: right;
+}
+.foot{
+    width: 100%;
+    background-color: darkcyan;
+}
